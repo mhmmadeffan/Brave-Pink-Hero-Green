@@ -18533,11 +18533,11 @@ const GE = ({checked: e, onCheckedChange: t, disabled: n=!1}) => E.jsxs("div", {
                 }), E.jsxs("p", {
                     className: "text-xs text-muted-foreground/70 mt-2",
                     children: ["developed by ", E.jsx("a", {
-                        href: "https://instagram.com/marjono__",
+                        href: "https://instagram.com/mhmmadeffan",
                         target: "_blank",
                         rel: "noopener noreferrer",
                         className: "text-primary hover:text-primary/80 transition-colors underline",
-                        children: "marjono"
+                        children: "Muhammad Effan Choirunanda"
                     })]
                 })]
             }), E.jsx("div", {
