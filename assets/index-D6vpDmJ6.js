@@ -18467,7 +18467,7 @@ const GE = ({checked: e, onCheckedChange: t, disabled: n=!1}) => E.jsxs("div", {
                 className: "text-center mb-6 sm:mb-12",
                 children: [E.jsx("h1", {
                     className: "text-2xl sm:text-4xl md:text-5xl font-bold bg-gradient-duotone bg-clip-text text-transparent mb-2 sm:mb-4",
-                    children: "Brave Pink Hero Green 1312"
+                    children: "Brave Pink Hero Green"
                 }), E.jsx("p", {
                     className: "text-base sm:text-lg text-muted-foreground max-w-2xl mx-auto px-2",
                     children: "Pink × Green duotone. Local & private."
