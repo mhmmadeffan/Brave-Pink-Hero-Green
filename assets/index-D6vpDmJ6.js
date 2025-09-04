@@ -18537,7 +18537,7 @@ const GE = ({checked: e, onCheckedChange: t, disabled: n=!1}) => E.jsxs("div", {
                         target: "_blank",
                         rel: "noopener noreferrer",
                         className: "text-primary hover:text-primary/80 transition-colors underline",
-                        children: "Muhammad Effan Choirunanda"
+                        children: "mhmmadeffan"
                     })]
                 })]
             }), E.jsx("div", {
