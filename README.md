@@ -1,7 +1,3 @@
-Tentu, ini adalah versi yang dirapikan agar bisa digunakan untuk README di GitHub. Teks ini ringkas, jelas, dan menggunakan format Markdown yang sesuai.
-
----
-
 ### Brave-Pink-Hero-Green-1312
 
 **Brave-Pink-Hero-Green-1312** adalah sebuah gerakan solidaritas digital yang disimbolkan dengan perubahan foto profil menjadi bernuansa warna **pink** dan **hijau**. Gerakan ini muncul sebagai bentuk dukungan terhadap aspirasi masyarakat yang disuarakan dalam unjuk rasa.
