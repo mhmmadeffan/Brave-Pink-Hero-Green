@@ -1,6 +1,6 @@
 ### Brave-Pink-Hero-Green
 
-**Brave-Pink-Hero-Green-1312** adalah sebuah gerakan solidaritas digital yang disimbolkan dengan perubahan foto profil menjadi bernuansa warna **pink** dan **hijau**. Gerakan ini muncul sebagai bentuk dukungan terhadap aspirasi masyarakat yang disuarakan dalam unjuk rasa.
+**Brave-Pink-Hero-Green** adalah sebuah gerakan solidaritas digital yang disimbolkan dengan perubahan foto profil menjadi bernuansa warna **pink** dan **hijau**. Gerakan ini muncul sebagai bentuk dukungan terhadap aspirasi masyarakat yang disuarakan dalam unjuk rasa.
 
 #### Makna di Balik Nama
 
