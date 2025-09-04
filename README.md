@@ -1,4 +1,4 @@
-### Brave-Pink-Hero-Green-1312
+### Brave-Pink-Hero-Green
 
 **Brave-Pink-Hero-Green-1312** adalah sebuah gerakan solidaritas digital yang disimbolkan dengan perubahan foto profil menjadi bernuansa warna **pink** dan **hijau**. Gerakan ini muncul sebagai bentuk dukungan terhadap aspirasi masyarakat yang disuarakan dalam unjuk rasa.
 
@@ -6,7 +6,6 @@
 
 * **Brave Pink**: Terinspirasi dari sosok seorang ibu berjilbab pink yang dengan berani menyampaikan orasi di tengah keramaian. Warna pink, yang kerap diasosiasikan dengan kelembutan, kini menjadi simbol keberanian warga sipil.
 * **Hero Green**: Mengacu pada warna jaket dan helm pengemudi ojek online, khususnya seorang pengemudi yang meninggal saat mengikuti unjuk rasa. Warna hijau di sini melambangkan semangat, harapan, dan solidaritas untuk mereka yang memperjuangkan keadilan.
-* **1312**: Merujuk pada salah satu slogan perlawanan yang sering disuarakan dalam unjuk rasa.
 
 #### Tujuan Gerakan
 
